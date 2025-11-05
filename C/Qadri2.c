@@ -7,7 +7,7 @@ int main()
    scanf("%d", &num);
    
    i = num;
-   
+
    printf("Enter Limit:");
    scanf("%d", &limit);
 
