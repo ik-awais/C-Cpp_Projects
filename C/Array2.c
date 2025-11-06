@@ -5,7 +5,6 @@
 int main() 
 {
     int ascend[CONST] = {34,3452,234,54,545,6432,213,75};
-    int copy[CONST];
 
     for (int i = 1; i < CONST; i++) {
         if (ascend[i] < ascend[i-1]) {
@@ -20,7 +19,7 @@ int main()
     }
 
     for (int i = 0; i < CONST; i++) {
-        printf("%d ", ascend[i]);   
+        printf("%d ", ascend[i]);
     }
 
     printf("\n");
