@@ -20,7 +20,7 @@ int main() {
     {
         for (int j = 0; j < COL; j++)
         {
-            printf("Grade %d: ", j + 1);
+            printf("Grade %2d: ", j + 1);
             scanf("%d", &grades_2D[i][j]);
         }
     }
@@ -32,10 +32,10 @@ int main() {
         for (int j = 0; j < COL; j++)
         {
             total += grades_2D[i][j];
-            printf("%d ", grades_2D[i][j]);
+            printf("%2d ", grades_2D[i][j]);
         }
         
-        printf("Total: %d\n", total);
+        printf("Total: %3d\n", total);
     }
 
     return 0;
