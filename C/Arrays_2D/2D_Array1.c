@@ -1,9 +1,7 @@
 #include <stdio.h>
 #define ROW 29
 #define COL 6
-
 int main() {
-
     int days[ROW][COL];
     int i, j ,sum, sum1 = 0; 
 

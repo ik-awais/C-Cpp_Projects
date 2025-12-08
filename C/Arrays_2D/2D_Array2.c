@@ -1,21 +1,12 @@
 #include <stdio.h>
-#define ROW 30
-#define COL 10
+#define ROW 5
+#define COL 3
 
 int main() {
 
-    int grades_2D[ROW][COL];
+    int grades_2D[ROW][COL] = {0};
     int total;
-
-    //Initialization
-    for (int i = 0; i < ROW; i++)
-    {
-        for (int j = 0; j < COL; j++)
-        {
-            grades_2D[i][j] = 0;
-        }
-    }
-    //Sequentially assigning Grades to 30 students in 10 Subjects
+    //Sequentially assigning Grades to 5 students in 3 Subjects
     for (int i = 0; i < ROW; i++) 
     {
         for (int j = 0; j < COL; j++)
