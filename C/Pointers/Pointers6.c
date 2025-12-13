@@ -1,4 +1,5 @@
 // Memory Allocation for an Array via Pointer
+// First time using Heap concept (malloc function)
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
@@ -21,5 +22,6 @@ int main(){
         pointer++;
     }
     printf("\n");
+    free(temp);
 return 0;
 }
