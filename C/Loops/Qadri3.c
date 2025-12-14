@@ -1,3 +1,4 @@
+// Checks if the entered number is 4-digit or not
 #include <stdio.h>
 int main() 
 {

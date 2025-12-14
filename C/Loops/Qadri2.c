@@ -1,3 +1,4 @@
+// Multiples of entered number to some limit
 #include <stdio.h>
 int main() 
 {
