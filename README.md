@@ -1,4 +1,4 @@
-# C / C++ Projects
+# C / C++ Practice
 
 This repository contains all of my **C and C++ projects**, created throughout my learning and practice journey.  
 It includes everything from simple exercises and logic-building programs to larger, more structured projects developed over time.
