@@ -20,6 +20,12 @@ A single, organized space for all my C and C++ work — from beginner exercises 
 
 ---
 
+## 🏷️ Topics
+
+`#c` `#cpp` `#algorithms` `#data-structures` `#file-handling` `#console-applications` `#problem-solving` `#beginner-friendly` `#programming-practice` `#logic-building`
+
+---
+
 ## 📁 Repository Structure
 
 Each folder represents an individual, self-contained project. Projects vary in size and purpose:
@@ -53,6 +59,6 @@ It will evolve continuously as I explore new concepts and techniques in C and C+
 
 <div align="center">
 
-**Muhammad Awais** &nbsp;|&nbsp; C / C++ &nbsp;|&nbsp; 🟢 Active & Growing
+**MuhammadAwais** &nbsp;|&nbsp; C / C++ &nbsp;|&nbsp; 🟢 Active & Growing
 
 </div>
