@@ -1,38 +1,58 @@
-# C / C++ Practice
+<div align="center">
 
-This repository contains all of my **C and C++ projects**, created throughout my learning and practice journey.  
-It includes everything from simple exercises and logic-building programs to larger, more structured projects developed over time.
+# 🖥️ C / C++ Practice
+
+*A growing collection of C and C++ programs built throughout my learning journey.*
+
+![Language](https://img.shields.io/badge/Language-C%20%2F%20C%2B%2B-blue?style=flat-square&logo=c)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Author](https://img.shields.io/badge/Author-Muhammad%20Awais-orange?style=flat-square)
+
+</div>
 
 ---
 
 ## 🧩 Purpose
-To maintain a single organized space for all my C/Cpp works; self-practice projects, experimental builds that help me strengthen my problem-solving and programming fundamentals, etc. For viewing my academic tasks, visit my another repo named as Uni_Assignments.
+
+A single, organized space for all my C and C++ work — from beginner exercises and logic-building programs to more structured, larger-scale projects developed over time. Focused on strengthening problem-solving skills and programming fundamentals.
+
+> 📚 For academic/university tasks, check out my [Uni_Assignments](https://github.com/) repository.
 
 ---
 
-## 📁 Structure
-Each folder within this repository represents an individual project.  
-Projects may vary in size, style, and purpose; from small logic tests to complete console or file-based applications.
+## 📁 Repository Structure
+
+Each folder represents an individual, self-contained project. Projects vary in size and purpose:
+
+| Type | Description |
+|------|-------------|
+| 🔬 Logic Exercises | Small programs focused on core C/C++ concepts |
+| 🗂️ File-Based Apps | Programs using file I/O and system-level operations |
+| 🧱 Data Structures | Implementations of DSA concepts |
+| 🚀 Mini Projects | Larger, more structured console applications |
 
 ---
 
-## 🚀 Road Ahead
-As I progress through my studies, I’ll continuously add:
-- Data structure and algorithm implementations  
-- File handling and system-level programs  
-- Practice problems and small-scale applications  
-- Larger course or self-directed projects  
+## 🛣️ Road Ahead
+
+As I progress, I'll continuously add:
+
+- **Data structures & algorithms** — linked lists, trees, sorting, searching
+- **File handling & system-level programs**
+- **Practice problems** from competitive programming
+- **Larger self-directed or course projects**
 
 ---
 
 ## 💬 Note
+
 This repository is primarily for **learning and self-development**.  
-It will evolve as I explore new concepts and programming techniques in C and C++.
+It will evolve continuously as I explore new concepts and techniques in C and C++.
 
 ---
 
-**Author:** Muhammad Awais  
-**Language(s):** C, C++  
-**Status:** Active (Growing with time)
+<div align="center">
 
+**Muhammad Awais** &nbsp;|&nbsp; C / C++ &nbsp;|&nbsp; 🟢 Active & Growing
 
+</div>
