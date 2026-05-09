@@ -9,7 +9,6 @@ int main()
   scanf(" %c", &operation);
   printf("Enter 2nd number: ");
   scanf("%d", &num2);
-  
   if (operation == '+') {
       result = num1 + num2 ;
       printf("%d + %d = %d\n", num1, num2, result);
