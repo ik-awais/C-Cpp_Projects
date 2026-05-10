@@ -50,6 +50,7 @@ int main(){
     MyStr Str2(str2);
     MyStr Str3("");
     Str3 = Str1;
-    Str3 = Str1+Str2;
+    Str3 = Str2+Str1;
+    Str1.print(); Str2.print(); Str3.print();
     return 0;
 }
