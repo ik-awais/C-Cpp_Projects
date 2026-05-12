@@ -19,7 +19,7 @@ private:
     static int totalArrays;  
 public:
     SmartArray(int n) : size(n) {
-        data = new int[size]();  // () zero-initializes all elements
+        data = new int[size]();
         totalArrays++;
         std::cout << "Created array of size " << size 
                   << " | Total arrays: " << totalArrays << "\n";
@@ -29,7 +29,7 @@ public:
         totalArrays--;
         std::cout << "Destroyed array of size " << size 
                   << " | Total arrays: " << totalArrays << "\n";
-    }   
+    }
     SmartArray(const SmartArray& other) : size(other.size) {
         data = new int[size];
         for (int i = 0; i < size; i++) {
